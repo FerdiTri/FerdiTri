@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm a student from Indonesia<br>- 🧑‍🎓 I'm an undergraduate Information Systems student at UPN "Veteran" Jawa Timur<br>- 📚 I'm currently learning Mobile App Development using Flutter & Dart<br>- ⚡ In my free time I love exploring tech tutorials, solving coding problems, and building small projects</p>
+<p align="left">I'm a student from Indonesia<br>- 🧑‍🎓 I'm an undergraduate Information Systems student at UPN "Veteran" Jawa Timur<br>- 📚 Passionate about learning software development and tech in general<br>- ⚡ In my free time I love exploring tech tutorials, solving coding problems, and building small projects</p>
 
 ###
 
